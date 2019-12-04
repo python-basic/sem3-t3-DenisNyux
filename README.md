@@ -142,7 +142,7 @@ russ_alphabet = [chr(i) for i in range(ord('а'), ord('я') + 1)]
 print(engl_alphabet, russ_alphabet, sep='\n')
 ```
 
-###Лабораторные работы 10 и 11:
+### Лабораторные работы 10 и 11:
 [Лр10](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/lab10)
 
 [Лр11](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/lab11)
