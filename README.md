@@ -3,8 +3,7 @@
 ## Нюхалов Денис, ИВТ2
 
 ### Инвариантная самостоятельная работа
-Задание 1:
-[Аннотированный список](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.pdf)
+[Задание 1](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.pdf)
 
 Задание 2:
 ```python
