@@ -1,8 +1,10 @@
 # Тема 6. Строки. Байты. Файлы
 
+## Нюхалов Денис, ИВТ2
+
 ### Инвариантная самостоятельная работа
 Задание 1:
-[Аннотированный список](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.docx)
+[Аннотированный список](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.pdf)
 
 Задание 2:
 ```python
@@ -67,7 +69,7 @@ def search_str_all(what, where):
 
 main()
 ```
-Задание 3: https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/ISR/task3
+[Задание 3](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/ISR/task3)
 
 Задание 4:
 ```python
@@ -142,7 +144,7 @@ russ_alphabet = [chr(i) for i in range(ord('а'), ord('я') + 1)]
 print(engl_alphabet, russ_alphabet, sep='\n')
 ```
 
-###Лабораторные работы 10 и 11:
+### Лабораторные работы 10 и 11:
 [Лр10](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/lab10)
 
 [Лр11](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/lab11)
