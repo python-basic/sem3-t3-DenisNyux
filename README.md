@@ -1,8 +1,10 @@
 # Тема 6. Строки. Байты. Файлы
 
+## Нюхалов Денис, ИВТ2
+
 ### Инвариантная самостоятельная работа
 Задание 1:
-[Аннотированный список](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.docx)
+[Аннотированный список](https://github.com/python-basic/sem3-t3-DenisNyux/blob/master/ISR/task1.pdf)
 
 Задание 2:
 ```python
@@ -67,7 +69,7 @@ def search_str_all(what, where):
 
 main()
 ```
-Задание 3: https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/ISR/task3
+[Задание 3](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/ISR/task3)
 
 Задание 4:
 ```python
