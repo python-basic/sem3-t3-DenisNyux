@@ -68,7 +68,12 @@ def search_str_all(what, where):
 
 main()
 ```
+
+![Alt text](res/i2.png)
+
 [Задание 3](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/ISR/task3)
+
+![Alt text](res/i3.png)
 
 Задание 4:
 ```python
@@ -89,6 +94,9 @@ def main():
 
 main()
 ```
+
+![Alt text](res/i4.png)
+
 
 ### Вариативная самостоятельная работа
 Задание 1:
@@ -120,8 +128,8 @@ from random import *
 def main():
     guess = randint(0, 100)
     x = None
-    more = 'число больше загаданного'
-    less = 'число меньше загаданного'
+    more = 'число больше введенного'
+    less = 'число меньше введенного'
     print('Угадайте число: ')
     while x != guess:
         x = int(input())
@@ -136,12 +144,18 @@ def main():
 
 main()
 ```
+
+![Alt text](res/v1.png)
+
 Задание 2:
 ```python
 engl_alphabet = [chr(i) for i in range(ord('a'), ord('z') + 1)]
 russ_alphabet = [chr(i) for i in range(ord('а'), ord('я') + 1)]
-print(engl_alphabet, russ_alphabet, sep='\n')
+print(*engl_alphabet)
+print(*russ_alphabet)
 ```
+
+![Alt text](res/v2.png)
 
 ### Лабораторные работы 10 и 11:
 [Лр10](https://github.com/python-basic/sem3-t3-DenisNyux/tree/master/lab10)
